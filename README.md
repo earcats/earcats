@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @earcats
+- 👀 I’m interested in writing new custom components for Delphi/Rad studio
+- 🌱 I’m currently creating a palette of Delphi components for DirectX 12
+- 💞️ I’m looking to collaborate on debuging the GitHub library of DirectX12 pascal units translated from C headers and sources
+- Due to the powerfull design-time functionality of Delphi, a group of DirectX 12 components may reduce the issue of creating some 3D viewer/editor/game application just to desinging rather than programming.
+- 📫 You can reach me at earcats@gmail.com
